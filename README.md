@@ -127,7 +127,7 @@ React.js • JavaScript • Bootstrap • Redux Toolkit • Axios • React Rout
 
 💼 LinkedIn: www.linkedin.com/in/vunnam-deepthi3
 
-💻 GitHub: github.com/Deepthi-Vunnam
+💻 GitHub: www.github.com/Deepthi-Vunnam
 
 ---
 
