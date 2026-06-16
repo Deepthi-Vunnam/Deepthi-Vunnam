@@ -15,15 +15,15 @@ Passionate about building responsive web applications and solving real-world pro
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deepthi-Vunnam&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepthi-Vunnam&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact&langs_count=8&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
