@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋, I'm Deepthi Vunnam
 
-<!--
-**Deepthi-Vunnam/Deepthi-Vunnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend Developer
+
+🌱 Currently learning React.js and Full Stack Development
+
+🚀 Passionate about Web Development and AI Applications
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React.js
+- Python
+- MySQL
+- Git & GitHub
+
+## Projects
+
+### Product Hub - E-Commerce Website
+
+Built a responsive e-commerce website using React.js with search, filtering, cart, wishlist and Redux Toolkit.
+
+### YouTube Transcript Summarizer
+
+AI-powered application that summarizes YouTube videos and PDFs using Gemini AI.
+
+## Internship
+
+Full Stack Web Development Intern at AICTE Innovate Intern.
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/vunnam-deepthi3
+
+GitHub:
+github.com/Deepthi-Vunnam
