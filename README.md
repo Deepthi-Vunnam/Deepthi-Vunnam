@@ -11,7 +11,6 @@ Python Developer | Frontend Developer | React Developer | Aspiring Full Stack De
 <p align="center">
 Passionate about building responsive web applications and solving real-world problems through technology 🚀
 </p>
----
 
 
 
