@@ -11,24 +11,9 @@ Python Developer | Frontend Developer | React Developer | Aspiring Full Stack De
 <p align="center">
 Passionate about building responsive web applications and solving real-world problems through technology 🚀
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepthi-Vunnam&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
 ---
 
----
+
 
 ## 👩‍💻 About Me
 
