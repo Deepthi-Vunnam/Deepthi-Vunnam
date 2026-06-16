@@ -124,18 +124,22 @@ AI-powered application that extracts YouTube transcripts and PDF content to gene
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
-  <a href="mailto:deepthivunnam03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/vunnam-deepthi3">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepthi_Vunnam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:deepthivunnam03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://github.com/Deepthi-Vunnam">
-    <img src="https://img.shields.io/badge/GitHub-Deepthi_Vunnam-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/vunnam-deepthi3">
+<img src="https://img.shields.io/badge/LinkedIn-Deepthi_Vunnam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Deepthi-Vunnam">
+<img src="https://img.shields.io/badge/GitHub-Deepthi_Vunnam-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
