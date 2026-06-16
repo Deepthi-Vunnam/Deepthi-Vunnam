@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true" />
+</p>
+
 # Hi there 👋, I'm Deepthi Vunnam
 
 ## 👩‍💻 About Me
@@ -7,8 +11,6 @@ I'm a passionate Computer Science graduate with a strong interest in Frontend an
 🎓 B.Tech in Computer Science (CGPA: 8.7/10)
 
 💻 Frontend Developer | Aspiring Full Stack Developer
-
-🌱 Currently learning Node.js, Django, and advanced React concepts
 
 🚀 Passionate about Web Development, AI-powered Applications, and Problem Solving
 
