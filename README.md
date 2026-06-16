@@ -44,22 +44,6 @@ I am a passionate **Python Full Stack Developer** with hands-on experience in de
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔐 NoteLock – Secure Password Manager
-
-A web application designed to securely store notes and passwords with authentication and CRUD functionality.
-
-**Tech Stack:** Python • MySQL • HTML • CSS • JavaScript
-
-#### Key Features
-- Secure User Authentication
-- Password & Notes Management
-- CRUD Operations
-- Responsive User Interface
-
----
-
 ### 🛒 Product Hub – E-Commerce Application
 
 A responsive React-based e-commerce platform featuring product listing, search, filtering, cart, wishlist, and dynamic routing.
