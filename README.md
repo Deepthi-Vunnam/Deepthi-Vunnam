@@ -4,14 +4,18 @@
 
 <h1 align="center">Hi there 👋, I'm Deepthi Vunnam</h1>
 
-<h3 align="center">Frontend Developer | React Developer</h3>
+<h3 align="center">
+Python Developer | Frontend Developer | React Developer | Aspiring Full Stack Developer
+</h3>
 
 <p align="center">
 Passionate about building responsive web applications and solving real-world problems through technology 🚀
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
@@ -19,8 +23,10 @@ Passionate about building responsive web applications and solving real-world pro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact&langs_count=8&hide_border=true" />
 </p>
+
+---
 
 ---
 
