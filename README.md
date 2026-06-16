@@ -122,7 +122,6 @@ AI-powered application that extracts YouTube transcripts and PDF content to gene
 
 ---
 
-## 🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
