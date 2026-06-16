@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true" />
-</p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact)
-
 # Hi there 👋, I'm Deepthi Vunnam
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=Deepthi-Vunnam)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact)
+
+---
 
 ## 👩‍💻 About Me
 
