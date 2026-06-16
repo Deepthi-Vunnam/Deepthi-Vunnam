@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode" />
+</p>
 # Hi there 👋, I'm Deepthi Vunnam
 
 ## 📊 GitHub Stats
