@@ -26,13 +26,17 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate **Python Full Stack Developer** with hands-on experience in developing responsive web applications, REST APIs, and AI-powered solutions.
+I am a motivated and enthusiastic Full Stack Developer with a strong interest in building innovative, user-centric web applications. I enjoy turning ideas into practical solutions and continuously improving my skills through hands-on projects and learning.
 
-- 🎓 B.Tech in Computer Science and Engineering from **RGUKT Ongole**
-- 💻 Skilled in **Python, React.js, JavaScript, HTML, CSS, Bootstrap, MySQL, Redux Toolkit, and REST APIs**
-- 🚀 Passionate about Full Stack Development, AI Applications, and Problem Solving
-- 🌱 Continuously learning modern technologies and industry best practices
-- 🏆 Recipient of **Dr. A.P.J. Abdul Kalam Vidya Puraskar (2019)**
+🎓 B.Tech in Computer Science and Engineering from RGUKT Ongole (CGPA: 8.7/10)
+
+🚀 Experienced in developing Full Stack and AI-powered applications that focus on usability, performance, and real-world impact
+
+🌱 Passionate about Web Development, Software Engineering, and emerging technologies
+
+🤝 Strong communication, teamwork, adaptability, and problem-solving abilities
+
+🏆 Recipient of Dr. A.P.J. Abdul Kalam Vidya Puraskar (2019)
 
 ---
 ## 🛠️ Tech Stack
@@ -59,6 +63,19 @@ I am a passionate **Python Full Stack Developer** with hands-on experience in de
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+---
+
+## 💼 Internship Experience
+
+### Full Stack Web Development Intern
+**AICTE Innovate Intern** | May 2024 – June 2024
+
+- Developed and maintained web applications using modern technologies
+- Implemented authentication and CRUD functionalities
+- Worked on frontend and backend development tasks
+- Built responsive and scalable web solutions
+- Collaborated on project development and testing
+
 ---
 
 ## 🚀 Featured Projects
@@ -92,19 +109,6 @@ AI-powered application that extracts YouTube transcripts and PDF content to gene
 
 ---
 
-## 💼 Internship Experience
-
-### Full Stack Web Development Intern
-**AICTE Innovate Intern** | May 2024 – June 2024
-
-- Developed and maintained web applications using modern technologies
-- Implemented authentication and CRUD functionalities
-- Worked on frontend and backend development tasks
-- Built responsive and scalable web solutions
-- Collaborated on project development and testing
-
----
-
 ## 🏆 Certifications
 
 - Python + Data Structures & Algorithms
@@ -125,8 +129,21 @@ AI-powered application that extracts YouTube transcripts and PDF content to gene
 
 ---
 
+## 🤝 Connect With Me
 
+<p align="center">
+  <a href="mailto:deepthivunnam03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/vunnam-deepthi3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Deepthi-Vunnam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">
