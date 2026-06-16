@@ -1,54 +1,62 @@
+# Hi there! I'm Deepthi Vunnam 👋
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Deepthi+Vunnam;Python+Full+Stack+Developer;React+Developer;Web+Developer;Building+Real-World+Applications+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;React+Developer;Web+Developer;Building+Scalable+and+Responsive+Applications;Passionate+About+AI+and+Problem+Solving" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Deepthi Vunnam</h1>
-
-<h3 align="center">
-Python Full Stack Developer | Frontend Developer  | React Developer | Python Developer
-</h3>
+<p align="center">
+  <strong>📍 Hyderabad, India</strong> &nbsp;|&nbsp;
+  <strong>🎓 B.Tech CSE (CGPA: 8.7/10)</strong> &nbsp;|&nbsp;
+  <strong>💼 Open to Opportunities</strong>
+</p>
 
 <p align="center">
-Passionate about building scalable web applications, AI-powered solutions, and solving real-world problems through technology 🚀
+  <a href="https://www.linkedin.com/in/vunnam-deepthi3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:deepthivunnam03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Deepthi-Vunnam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,python,mysql,git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,redux,python,mysql,git,github,vscode,netlify,vercel" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Graduate from RGUKT Ongole (CGPA: 8.7/10)
+I am a passionate **Python Full Stack Developer** with hands-on experience in developing responsive web applications, REST APIs, and AI-powered solutions.
 
-💻 Python Full Stack Developer skilled in Python, React.js, JavaScript, HTML, CSS, Bootstrap, MySQL, and REST APIs
-
-🚀 Passionate about building scalable web applications, AI-powered solutions, and solving real-world problems through technology
-
-🌱 Continuously learning modern web technologies and software development best practices
-
-📍 Hyderabad, India
+- 🎓 B.Tech in Computer Science and Engineering from **RGUKT Ongole**
+- 💻 Skilled in **Python, React.js, JavaScript, HTML, CSS, Bootstrap, MySQL, Redux Toolkit, and REST APIs**
+- 🚀 Passionate about Full Stack Development, AI Applications, and Problem Solving
+- 🌱 Continuously learning modern technologies and industry best practices
+- 🏆 Recipient of **Dr. A.P.J. Abdul Kalam Vidya Puraskar (2019)**
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 🤖 YouTube Transcript Summarization
+### 🔐 NoteLock – Secure Password Manager
 
-AI-powered application that extracts YouTube transcripts and PDF content to generate multilingual summaries and intelligent Q&A using Gemini AI.
+A web application designed to securely store notes and passwords with authentication and CRUD functionality.
 
-**Tech Stack:** Python • Streamlit • Gemini API • PyPDF
+**Tech Stack:** Python • MySQL • HTML • CSS • JavaScript
 
-**Highlights**
-- 95% transcript accuracy
-- Real-time Q&A support
-- Multilingual summaries
-- Faster content understanding
+#### Key Features
+- Secure User Authentication
+- Password & Notes Management
+- CRUD Operations
+- Responsive User Interface
 
 ---
 
@@ -58,24 +66,39 @@ A responsive React-based e-commerce platform featuring product listing, search, 
 
 **Tech Stack:** React.js • Redux Toolkit • Bootstrap • Axios • React Router
 
-**Highlights**
-- Product search and filtering
-- Cart and wishlist management
-- Local storage persistence
-- Responsive UI
-- Reusable React components
+#### Key Features
+- Product Search & Category Filtering
+- Cart and Wishlist Management
+- Local Storage Persistence
+- Dynamic Routing
+- Fully Responsive Design
+
+---
+
+### 🤖 YouTube Transcript Summarization
+
+AI-powered application that extracts YouTube transcripts and PDF content to generate multilingual summaries and intelligent Q&A using Gemini AI.
+
+**Tech Stack:** Python • Streamlit • Gemini API • PyPDF
+
+#### Key Features
+- AI-Powered Summarization
+- Multilingual Support
+- Real-Time Question Answering
+- Key Insights Extraction
 
 ---
 
 ## 💼 Internship Experience
 
 ### Full Stack Web Development Intern
-**AICTE Innovate Intern | May 2024 – June 2024**
+**AICTE Innovate Intern** | May 2024 – June 2024
 
-- Developed NoteLock web application
+- Developed and maintained web applications using modern technologies
 - Implemented authentication and CRUD functionalities
-- Worked on frontend and backend development
-- Built responsive and scalable web applications
+- Worked on frontend and backend development tasks
+- Built responsive and scalable web solutions
+- Collaborated on project development and testing
 
 ---
 
@@ -95,29 +118,33 @@ A responsive React-based e-commerce platform featuring product listing, search, 
 
 🏆 Successfully completed multiple internships and industry-oriented projects in Web Development and AI
 
+🏆 Built Full Stack and AI-powered applications using modern technologies
+
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="mailto:deepthivunnam03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/vunnam-deepthi3">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/vunnam-deepthi3">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepthi_Vunnam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="mailto:deepthivunnam03@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Deepthi-Vunnam">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/Deepthi-Vunnam">
+    <img src="https://img.shields.io/badge/GitHub-Deepthi_Vunnam-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### ✨ Fun Fact
+<p align="center">
+  <i>"Driven by curiosity, committed to writing clean code, and passionate about building impactful software solutions."</i>
+</p>
 
-I enjoy transforming ideas into real-world applications through code and continuously exploring emerging technologies in Web Development and Artificial Intelligence.
+<p align="center">
+⭐ Thanks for visiting my profile! Let's connect and build something amazing together.
+</p>
 
