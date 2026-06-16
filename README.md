@@ -1,59 +1,64 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,mysql,git,github,vscode" />
 </p>
-# Hi there 👋, I'm Deepthi Vunnam
 
-## 📊 GitHub Stats
+<h1 align="center">Hi there 👋, I'm Deepthi Vunnam</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&count_private=true)
+<h3 align="center">Frontend Developer | React Developer</h3>
 
-![](https://streak-stats.demolab.com?user=Deepthi-Vunnam)
+<p align="center">
+Passionate about building responsive web applications and solving real-world problems through technology 🚀
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Deepthi-Vunnam&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a passionate Computer Science graduate with a strong interest in Frontend and Full-Stack Web Development. I enjoy building responsive, user-friendly web applications and continuously learning new technologies to solve real-world problems.
+🎓 B.Tech Computer Science Graduate from RGUKT Ongole (CGPA: 8.7/10)
 
-🎓 B.Tech in Computer Science (CGPA: 8.7/10)
+💻 Frontend Developer skilled in React.js, JavaScript, HTML, CSS, and Bootstrap
 
-💻 Frontend Developer | Aspiring Full Stack Developer
+🌱 Currently learning Full Stack Development
 
-🚀 Passionate about Web Development, AI-powered Applications, and Problem Solving
+🚀 Passionate about Web Development, AI-Powered Applications, and Problem Solving
 
 📍 Hyderabad, India
 
 ---
 
-## 🎯 Career Objective
+## 🛠️ Tech Stack
 
-Motivated and detail-oriented developer with strong analytical and problem-solving skills. Seeking opportunities to design, develop, test, and deliver high-quality software solutions while contributing to innovative projects. Passionate about learning new technologies, collaborating with teams, and building impactful applications.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
+### Languages
 - Python
 - JavaScript (ES6)
 
-### Frontend Development
+### Frontend
 - HTML5
 - CSS3
 - Bootstrap
 - React.js
 - Redux Toolkit
 
-### Backend & Database
+### Database & APIs
 - MySQL
 - REST APIs
 
-### Developer Tools
+### Tools
 - Git
 - GitHub
-- Visual Studio Code
+- VS Code
 - Jupyter Notebook
 - Netlify
 - Vercel
@@ -61,48 +66,45 @@ Motivated and detail-oriented developer with strong analytical and problem-solvi
 
 ---
 
-## 🚀 Featured Projects
 
-### 📺 YouTube Transcript Summarization
+### 🤖 YouTube Transcript Summarization
 
-AI-powered application that extracts YouTube video transcripts and PDF content to generate multilingual summaries, topic insights, and question-answer responses using Gemini AI.
+AI-powered application that extracts YouTube transcripts and PDF content to generate multilingual summaries and intelligent Q&A using Gemini AI.
 
-#### Tech Stack
-Python • Streamlit • Gemini API • YouTube Transcript API • PyPDF
+**Tech Stack:** Python, Streamlit, Gemini API, PyPDF
 
-#### Highlights
-- Achieved 95% transcript accuracy
-- Reduced summarization time by 40%
-- Implemented real-time Q&A responses
-- Developed an intuitive Streamlit interface
+**Highlights:**
+- 95% transcript accuracy
+- Real-time Q&A support
+- Multilingual summaries
+- Faster content understanding
 
 ---
 
-### 🛒 Product Hub – E-Commerce Web Application
+### 🛒 Product Hub – E-Commerce Application
 
-A responsive React-based e-commerce platform with product listing, category filtering, search functionality, wishlist management, shopping cart, ratings, and local storage support.
+A responsive React-based e-commerce platform featuring product listing, search, filtering, cart, wishlist, and dynamic routing.
 
-#### Tech Stack
-React.js • JavaScript • Bootstrap • Redux Toolkit • Axios • React Router DOM
+**Tech Stack:** React.js, Redux Toolkit, Bootstrap, Axios, React Router
 
-#### Highlights
-- Real-time product search and filtering
+**Highlights:**
+- Product search and filtering
 - Cart and wishlist management
+- Wishlist and cart functionality
 - Local storage persistence
-- Dynamic routing and reusable components
-- Fully responsive UI
+- Responsive UI
 
 ---
 
 ## 💼 Internship Experience
 
 ### Full Stack Web Development Intern
-**AICTE Innovate Intern (May 2024 – June 2024)**
+**AICTE Innovate Intern | May 2024 – June 2024**
 
-- Designed and developed NoteLock web application.
-- Worked on frontend and backend development tasks.
-- Implemented authentication and CRUD functionalities.
-- Built responsive and scalable web solutions.
+- Developed NoteLock web application
+- Implemented authentication and CRUD operations
+- Worked on frontend and backend modules
+- Built responsive web interfaces
 
 ---
 
@@ -120,21 +122,17 @@ React.js • JavaScript • Bootstrap • Redux Toolkit • Axios • React Rout
 
 🏆 Dr. A.P.J. Abdul Kalam Vidya Puraskar (2019)
 
-🏆 Successfully completed multiple industry-oriented internships and projects in Web Development and AI.
-
----
-
-
+🏆 Successfully completed multiple internships and industry-oriented projects in Web Development and AI
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 Email: deepthivunnam03@gmail.com
+📧 Email: **deepthivunnam03@gmail.com**
 
-💼 LinkedIn: www.linkedin.com/in/vunnam-deepthi3
+💼 LinkedIn: **www.linkedin.com/in/vunnam-deepthi3**
 
-💻 GitHub: www.github.com/Deepthi-Vunnam
+💻 GitHub: **www.github.com/Deepthi-Vunnam**
 
 ---
 
