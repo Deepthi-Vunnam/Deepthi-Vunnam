@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true" />
 </p>
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact)
 
 # Hi there 👋, I'm Deepthi Vunnam
 
@@ -115,11 +118,7 @@ React.js • JavaScript • Bootstrap • Redux Toolkit • Axios • React Rout
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepthi-Vunnam&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepthi-Vunnam&layout=compact)
 
 ---
 
