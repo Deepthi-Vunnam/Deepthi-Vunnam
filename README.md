@@ -111,11 +111,11 @@ AI-powered application that extracts YouTube transcripts and PDF content to gene
 
 ## 🏆 Certifications
 
-- Python + Data Structures & Algorithms
-- Full Stack Web Development
-- Website Design & Development
+- Python + Data Structures & Algorithms - Front-lines EduTech Private Limited
+- Full Stack Web Development - Internship Studio
+- Website Design & Development - AICTE Innovate Intern Company
 - Software Development Life Cycle (SDLC)
-- Cloud Computing (NPTEL – Elite + Silver)
+- Cloud Computing (NPTEL,IIT Kharagpur  – Elite + Silver)
 
 ---
 
